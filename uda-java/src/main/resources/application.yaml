@@ -1,0 +1,7 @@
+server:
+  port: 8080
+
+# 默认执行dev环境
+spring:
+  profiles:
+    active: dev
